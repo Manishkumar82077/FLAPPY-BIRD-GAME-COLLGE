@@ -1,5 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/techwithtim/NEAT-Flappy-Bird)](https://repl.it/github/techwithtim/NEAT-Flappy-Bird)
-# NEAT-Flappy-Bird
-An AI that plays flappy bird! Using the NEAT python module.
-
-# Run in Gitpod
+To run this game 
+pip install -r ./requirements.txt 
+this will install all the pakege require to run this project 
+the run the flappy_bird.py file in python enviroment 
